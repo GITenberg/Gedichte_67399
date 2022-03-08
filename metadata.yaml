@@ -1,0 +1,53 @@
+_repo: Gedichte_67399
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Ammer, K. L.
+    alias: Klammer, Karl
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '54256'
+    url: http://www.gutenberg.org/2009/agents/54256
+    wikipedia: https://de.wikipedia.org/wiki/Karl_Anton_Klammer
+  - agent_name: Oppeln-Bronikowski, Friedrich von
+    aliases:
+    - Von Oppeln-Bronikowski, Friedrich
+    - Oppeln-Bronikowski, F. v. (Friedrich)
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '51502'
+    url: http://www.gutenberg.org/2009/agents/51502
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+    - https://en.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67399'
+language: de
+pgterms:marc905: 20140706212645maeterlinc
+pgterms:marc906: '1906'
+pgterms:marc907: DE
+production_note: Mark C. Orton, Norbert Mueller, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive
+publication_note: Germany :Eugen Diederichs,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Belgian poetry (French) -- Translations into German'
+- GITenberg
+title: Gedichte
+url: http://www.gutenberg.org/ebooks/67399
