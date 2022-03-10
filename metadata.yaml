@@ -20,6 +20,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
     - https://en.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+covers:
+- cover_type: archival
+  image_path: 67399-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -31,6 +34,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67399#Gedichte
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67399'
